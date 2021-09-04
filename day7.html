@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pseudo</title>
+    <style>
+        .container {
+            display: block;
+            width: 200px;
+            margin: auto;
+        }
+        /* Only target series 3n+1 i.e. 1 ,4, 7,10,......  element */
+        
+        li:nth-child(3n+1) {
+            background-color: darkgray;
+        }
+        /* Only target 2n+1 i.e.odd  element */
+        /* li:nth-child(2n+1) {
+            background-color: darkgray;
+        } */
+        /* Only target 3rd element */
+        /* li:nth-child(3) {
+            background-color: darkgray;
+        } */
+        /* li:nth-child(even) {
+            background-color: red;
+        }
+        
+        li:nth-child(odd) {
+            background-color: yellow;
+        } */
+    </style>
+</head>
+
+<body>
+
+</body>
+<div class="container">
+    <ul>
+        <li class="item" id="item-1">item-1</li>
+        <li class="item" id="item-2">item-2</li>
+        <li class="item" id="item-3">item-3</li>
+        <li class="item" id="item-4">item-4</li>
+        <li class="item" id="item-5">item-5</li>
+        <li class="item" id="item-6">item-6</li>
+        <li class="item" id="item-7">item-7</li>
+        <li class="item" id="item-8">item-8</li>
+        <li class="item" id="item-9">item-9</li>
+        <li class="item" id="item-10">item-10</li>
+    </ul>
+
+
+    <p class="item" id="para1">sdfdfdfdfdfdfdf</p>
+    <p class="item" id="para2">sdfdfdfdfdfdfdf</p>
+    <p class="item" id="para3">sdfdfdfdfdfdfdf</p>
+    <p class="item" id="para4">sdfdfdfdfdfdfdf</p>
+    <p class="item" id="para5">sdfdfdfdfdfdfdf</p>
+    <p class="item" id="para6">sdfdfdfdfdfdfdf</p>
+    <p class="item" id="para7">sdfdfdfdfdfdfdf</p>
+    <p class="item" id="para8">sdfdfdfdfdfdfdf</p>
+    <p class="item" id="para9">sdfdfdfdfdfdfdf</p>
+    <p class="item" id="para10">sdfdfdfdfdfdfdf</p>
+
+</div>
+
+</html>
