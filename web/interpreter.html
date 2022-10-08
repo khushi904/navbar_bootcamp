@@ -1,0 +1,29 @@
+<html>
+
+<head>
+	<title>Task 1</title>
+	<link rel="stylesheet" href="stylesheets.css">
+</head>
+
+<body>
+	<div class="writingDiv">
+		<h1 style=text-align:center>LIVE HTML Interpreter</h1>
+		<textarea class="inputData" type="text/html" placeholder="<h1>Hello World</h1>" onkeyup="runCode()"
+			autofocus="on" cols="100" rows="20" spellcheck="false">
+</textarea>
+		<br><br>
+		<div align="center"> Output </div>
+		<hr>
+	</div>
+
+	<div class="outputDiv">
+	</div>
+
+	<script>
+		function runCode() {
+			document.querySelector(".outputDiv").innerHTML = (document.querySelector(".inputData").value);
+		};
+	</script>
+</body>
+
+</html>
