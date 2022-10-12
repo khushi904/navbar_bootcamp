@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Information</title>
+    <style>
+        p { font-size:20px; 
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+          }
+          h1{
+            font: size 30px;
+            font-family: 'Times New Roman', Times, serif;
+          }
+          h3{
+            font-size: 25px;
+            font-family: 'Times New Roman', Times, serif;
+          }
+          h4{
+            font-size: 24px;
+            font-family: 'Times New Roman', Times, serif;
+          }
+    </style>
+</head>
+<body bgcolor="orange">
+    
+    <h1><u><center>Boat Airdropes</u></center></h1>
+    <a href="#Product1" style="font-size: 30px;">Product1</a><br>
+    <a href="#Product2" style="font-size: 30px;">Product2</a><br>
+    <a href="#Product3" style="font-size: 30px;">Product3</a><br>
+    <br>
+    <br>
+    <a id="Product1"><h1><u>1.boAt Airdopes 131</u></h1></a>
+    <img src="./Banner2-product2_2f6bbbb9-a887-481b-b597-72cd0f94821c.webp" width="450px" height="300px" alt="Airdropes 131" />
+    <h3>boAt Airdopes 131 Wireless Earbuds with upto 15 Hours Playback, 13mm Drivers and IWP Technology, 650mah C type Charging Case</h3>
+    <p style="color: aquamarine;"> Price: 1099 Rupees</p>
+    <h4><u>Description</u></h4>
+    <p>Sleek.Comfortable. Stylish. And a Splash of Incredible Colours. Bring alive your favourite sounds with these true wireless earbuds Equipped with 13mm drivers for the magical boAt signature sound. Designed for supreme ease with Insta Wake N’ Pair technology that auto connects the moment it’s out of the case and Type C Charging. Tws earbuds to drown all the sounds you don’t need and live every moment. With a battery capacity of 40mAh for each earbud, indulge in a blissful audio experience for up to 3 hours in a go. Tap into instant wireless functionality with optimum Bluetooth V5.0</p>
+    <h4><u>Specification</u></h4>
+    <p>Headphone Type: In-Ear<br>HD Sound: YES<br>Bluetooth Version: V5.0<br> Drive Size:13mm X 2 Drivers<br>Voice Assistant: YES<br>Bluetooth Range:10M</p>
+    <h4><u>Features</u></h4>
+    <p>1. Connected every moment:<br>Never lose a second with seamless Bluetooth 5.0 and Insta’ Wake n Pair, that connects your phone to your earbuds the moment they leave the charging case. Charge your tws bluetooth earphones with Type C for great speed.</p>
+    <p>2. BoAt Signature Sound for music lovers:<br>Where sound is everything. The most immersive music experience equipped with 13mm drivers that will transport you to another world.</p>
+    <p>3. Featherweight for comfort all-day:<br>Feel your music, never the weight of your earbuds. Wireless earbuds designed for ease and flexibility</p>
+    <br>
+    <br>
+    <br>
+    <div id="Product2"><h1><u>2.boAt Airdopes 281 Pro</u></h1></div>
+    <img src="./281.webp" width="450px" height="400px" alt="Airdropes 281" />
+    <h3>boAt Airdopes 281 Pro - ENx™ Technology with 4 Mics, ASAP Charge, 6mm Drivers, 32 Hours Nonstop Audio Bliss</h3>
+    <p style="color: aquamarine;">Price: 1999 Rupees</p>
+    <h4><u>Description</u></h4>
+    <p>Life seems better if the right music is heard the right way. Plug into a blissful listening experience with boAt Airdopes 281 Pro - a truly wireless earbuds powered by boAt Signature Sound. Equipped with ENx™ Technology and four mics, it makes your everyday calling experience hit the roof. Win matches while playing multiplayer games with your friends through its optimum noise cancellation and crystal-clear audio input. So, where are you? Because your perfect audio match is right here - boAt Airdopes 281.</p>
+    <h4><u>Specification</u></h4>
+    <p>Headphone Type: In-Ear<br>HD Sound: YES<br>Bluetooth Version: V5.1<br> Drive Size:6mm X 2 Drivers<br>Voice Assistant: YES<br>Bluetooth Range:>10M</p>
+    <h4><u>Features</u></h4>
+    <p>1. Crystal Clear Calling With ENx™ Technology<br>2. The Power of Four Mics:Get maximum noise clarity with its four mics that collaborate in cancelling all background noise.<br>3. Never run out of your vibe with ASAP Charge that provides 60 minutes playback within 5 minutes of charge.<br>4. Reset your Airdopes effortlessly with its special reset button placed on the outside of the case</p>
+    <br>
+    <br>
+    <br>
+    <p id="Product3"><h1><u>3.boAt Airdopes 141</u></h1></p>
+    <img src="./141.webp" width="450px" height="300px" alt="Airdropes 141" />
+    <h3>boAt Airdopes 141 - Equipped with 8mm drivers, Upto 42 Hours Total Playback, ENxTM Technology, ASAPTM Charge</h3>
+    <p style="color: aquamarine;">Price: 1399 Rupees</p>
+    <h4><u>Description</u></h4>
+    <p>Let the noise of the world drown as you jam to your rhythm with Airdopes 141. Equipped with 8mm drivers, these dope wireless earbuds make your playlist sound better with crystal clear audio quality and powerful bass. Experience seamless calling and be clearly heard with ENxTM Technology. That is not all,  ASAPTM Charge technology empowers you with 75 minutes of playback with just 5 minutes of charging. With IPX4 Sweat and Water Resistance, there's no stopping you from listening to your workout mix while breaking a sweat. Moreover, its IWPTM Technology and Quick Response Touch Controls ensure you can answer calls and switch music without interrupting your flow. Go ahead, your perfect audio match is right here.
+        boAt Airdopes 141 - Equipped with 8mm drivers, Upto 42 Hours Total Playback, ENxTM Technology, ASAPTM Charge - boAt Lifestyle</p>
+    <h4><u>Specification</u></h4>
+    <p>Headphone Type: In-Ear<br>Crytstal Sound: YES<br>Bluetooth Version: V5.0<br> Drive Size:8mm X 2 Drivers<br>Voice Assistant: YES<br>Bluetooth Range:10M</p>
+    <h4><u>Features</u></h4>
+    <p>1. With a battery backup so strong, nothing can go wrong. Get up to 42 HRS of total playback and never miss another meeting.<br>Fall in love with music, again, with boAt Signature Sound and dynamic 8mm drivers.</p>
+</font>
+</body>
+</html>
+
