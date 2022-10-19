@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 60px;
+    width: 100%;
+    display: flex;
+    background-color: black;
+}
+span{
+    padding-left: 20px;
+    color: white;
+    font-weight: bolder;
+}
+.box1{
+    width: 50%;
+}
+.box1 img{
+    width: 50px;
+    height: 30px;
+    padding-left: 100px;
+    margin-top: 20px;
+}
+.box2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    margin: 0 20px;
+    list-style: none;
+    color: white;
+}
+a:hover{
+    color: aquamarine;
+}
+.btn{
+    padding:20px;
+    margin-left: 40px;
+    color:#29d9d5;
+    background-color: black;
+}
+.btn:hover{
+    background-color: aqua;
+    color: black;
+}
+.home{
+    background-color: rgb(247, 206, 213);
+    margin-top: 50px;
+    margin-left: 90px;
+    margin-right: 90px;
+    padding: 20px;
+}
+h2{
+    font-family: fantasy;
+    color: rgb(119, 119, 247);
+}
+.imgd{
+    
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;  
+    justify-content: space-around; 
+}
+.imgd img{
+    margin-top: 40px;
+    width: 400px;
+    height:300px;
+}
+img:hover{
+    color: aliceblue;
+}
+.ftr{
+    height: 300px;
+    background-image: url("background.png");
+    background-size: cover;
+}
+.ftr h4{
+    margin-left: 600px;
+    margin-top: 100px;
+    align-items: center;
+    font-weight: bold;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(115, 45, 205);
+}
+.ftr h2{
+    color: brown;
+    font-weight: bolder;
+    margin-top: 20px;
+    margin-left: 500px;
+}
+.ftr p{
+    margin-top: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.ftr .btn{
+    margin-top: 20px;
+    margin-left: 600px;
+    background-color: rgb(88, 194, 226);
+    color:black;
+}
+.lst{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+    height: 300px;
+    background-color: black;
+}
+.phto{
+    color: white;
+    font-weight: bolder;
+    margin-left: 50px;
+    margin-top: 10px;
+    
+}
+.contct{
+    color: white;
+    font-weight: bolder;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.news{
+    color: white;
+    font-weight: bolder;
+    margin-left: 50px;
+    margin-top: 10px;
+}
